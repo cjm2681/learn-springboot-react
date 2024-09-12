@@ -18,7 +18,7 @@ public class TodoService {
 							LocalDate.now().plusYears(10), false ));
 		todos.add(new Todo(++todosCount, "in28minutes","Learn DevOps", 
 				LocalDate.now().plusYears(11), false ));
-		todos.add(new Todo(++todosCount, "in28minutes","Learn Full Stack Development", 
+		todos.add(new Todo(++todosCount, "in28minutes","Learn Full Stack Development V2", 
 				LocalDate.now().plusYears(12), false ));
 	}
 	
